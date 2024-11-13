@@ -1,2 +1,6 @@
 Nome: Luiz Gustavo Carvalho da Silva CosEta
+<<<<<<< HEAD
 Email: 0000111775618xsp@al.educao.sp.gov.br
+=======
+E-mail: 0000111775618xsp@al.educao.sp.gov.br
+>>>>>>> Luiz
